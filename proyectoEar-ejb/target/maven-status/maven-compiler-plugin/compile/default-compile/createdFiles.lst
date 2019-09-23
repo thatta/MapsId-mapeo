@@ -1,0 +1,9 @@
+com\mycompany\entity\Cuenta_.class
+com\mycompany\beans\CuentaFacade.class
+com\mycompany\entity\Inversor.class
+com\mycompany\beans\InversorFacade.class
+com\mycompany\interfaces\CuentaFacadeLocal.class
+com\mycompany\beans\AbstractFacade.class
+com\mycompany\entity\Cuenta.class
+com\mycompany\interfaces\InversorFacadeLocal.class
+com\mycompany\entity\Inversor_.class
